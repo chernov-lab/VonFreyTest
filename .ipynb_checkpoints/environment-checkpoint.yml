@@ -10,7 +10,6 @@ dependencies:
   - r-ggiraph
   - r-devtools
   - r-emmeans
-  - r-writexl
   - jupyterlab
   - jupyterlab_launcher
   - biopython
