@@ -1,4 +1,4 @@
-name: PyR4
+
 channels:
   - defaults
 dependencies:
@@ -13,4 +13,3 @@ dependencies:
   - jupyterlab
   - jupyterlab_launcher
   - biopython
-prefix: /Users/achernov/opt/anaconda3/envs/PyR4
